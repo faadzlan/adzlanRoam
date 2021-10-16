@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       59bd2316-b7a7-4d07-92c3-6eb5c0c10cda
+:END:
+#+title: Org-Agenda
+We can create an agenda view for n-number of days, instead of the default 10-day view. The key
+binding is C-u 30 SPC o A a, where 30 is the number of days we want to see in the agenda view.
+It can be any number, 14, 21, 60 etc.

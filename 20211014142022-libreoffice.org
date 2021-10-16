@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1b869b5a-3bf4-417b-9bf2-80ed13abdb7f
+:END:
+#+title: LibreOffice
+There are several applications.
+1) [[id:6ce48640-c4a5-4e7c-8091-bdd21f5a9fed][LibreOffice Draw]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       17f45d18-c144-4508-a831-c646abe6114b
+:END:
+#+title: Course Plan
+
+* Course plan is a document detailing the:
+- CO/PO mapping
+- learning units, a.k.a. syllabus
+- student learning time, which consists of:
+  1. guided learning time
+  2. independent learning time

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       f33833c7-7338-4235-a97e-1ca6eca500a6
+:END:
+#+title: Course Plan Change Form
+
+* The [[id:17f45d18-c144-4508-a831-c646abe6114b][Course Plan]] change form is a form to be completed when there are changes in:
+ - teaching/learning strategies/activities
+ - course code
+ - course name
+ - CLO statement
+ - CLO mapping to PLO
+ - learning unit
+ - total student learning time (SLT)
+ - credit hour
+ - course synopsis
+ - reference
+
+* Changes made in:
+ - teaching/learning strategies/activities
+require endorsment at the faculty level.
+
+* Changes made in:
+ - course code
+ - course name
+ - CLO statement
+ - CLO mapping to PLO
+ - learning unit
+ - total student learning time (SLT)
+ - credit hour
+ - course synopsis
+ - reference
+must be submitted to PPPA and presented in the JPPA/JKPS and senate for approval.
+
+* In the course plan change form, we need to quantify the number of hours of student interaction with:
+- resources for online learning
+  + how many are for independent learning
+  + how many are for interaction with instructor
+- activities for online learning
+  + how many are for independent learning
+  + how many are for interaction with instructor
+
+* Glossary
+- PTG -- pembelajaran teradun gantian
+- CLO -- course learning outcome
+- SLT -- student learning time
+- F2F -- face-to-face
+- NF2F -- non-face-to-face
+- IL -- independent learning

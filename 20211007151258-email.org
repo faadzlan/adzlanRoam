@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       80fae238-4e1e-4364-ae9b-9bf381b8e67a
+:END:
+#+title: email
+* How to send/receive email from my Outlook UNIMAS email using my Gmail account?
+1) Click on gear icon in Outlook on the web
+2) Click on "View all Outlook settings"
+3) Click on "Sync" to obtain POP and IMAP server details for receiving mail, and SMTP server details for sending mail using Gmail account
+4) Go to Gmail on the web and click the gear icon
+5) Click on "See all settings"
+6) Click on "Accounts and Import"
+7) Note that for SMTP settings (settings for sending mail), the user name is my full Outlook email address
+8) Make sure that the correct password is used
+9) Gmail will send a link and verification code to Outlook account to verify account before adding Outlook as a "Send As" option in Gmail

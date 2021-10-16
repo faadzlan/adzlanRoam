@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       8180f7ce-284c-47b8-8132-d34d7fa806e0
+:END:
+#+title: tables
+
+The simplest table starts by importing the tabularx package
+
+#+begin_export latex
+    \usepackage{tabularx}
+#+end_export
+
+Then using the tabularx package, we can define the following.
+
+  #+begin_export latex
+    \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+    \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+    \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+  #+end_export
+
+ This allows us not only to specify the text alignment inside the table, but also to fix the column width. A use example is shown below.
+
+ #+begin_export latex
+   \begin{center}
+     \begin{tabular}{ |L{4cm} | L{10.5cm}| }
+       \toprule
+       heading 1 & heading 2 \\
+       \midrule
+       a         & b         \\
+       c         & d         \\
+       \bottomrule
+     \end{tabular}
+   \end{center}
+ #+end_export
+
+ If we use the "float" package, we can specify the position of our table on a page. For example if we want to force LaTeX to position our table right "here" based on the flow of text in the [[id:897fb60a-6b4c-4606-8269-1f00c012bb15][LaTeX]] source file, we can put [H], such as follows.
+
+ #+begin_export latex
+   \begin{center}
+     \begin{tabular}[H]{ |L{4cm} | L{10.5cm}| }
+       \toprule
+       heading 1 & heading 2 \\
+       \midrule
+       a         & b         \\
+       c         & d         \\
+       \bottomrule
+     \end{tabular}
+   \end{center}
+ #+end_export
+
+ Other options include "T", "P" and "B" which corresponds to the basic positioning arguments "h", "t", "p" and "b", but with an exclamation mark to override LaTeX's automatic float positioning instructions, i.e. "h!", "t!", "p!" and "b!".

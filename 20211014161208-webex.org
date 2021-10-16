@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8b4b3598-e338-4869-9bfc-2ddecbbfba8b
+:END:
+#+title: Webex
+When listening to a Webex meeting using bluetooth earphones, sometimes you lose control over the volume. The workaround is as follows.
+
+1) Right click on the sounds icon in the system tray
+2) Open volume mixer
+3) Select the correct device under "Device"
+4) Then, under "Applications", adjust the volume (in this case, "Applications" will be "Cisco Webex Service")
+
+   And you should regain control over your volume.

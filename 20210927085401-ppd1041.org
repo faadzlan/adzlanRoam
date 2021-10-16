@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       e1de22e0-36ee-46ac-9fda-5b2cf8c0662a
+:END:
+#+title: PPD1041
+
+* Synopsis
+Exposing first year undergraduate students with these skills:
+ - academic
+ - social
+to ensure survival and self-efficacy during their study.
+
+
+* Learning units
+** CLO1 Personal and social skills for success
+- Life as an undergraduate student
+- Mental health and stress management
+- 3 weeks
+
+** CLO2 Develop academic skills for success
+- Career exploration, [[id:563ab6b3-1a3a-45e0-a98b-a2b3d6efcb58][e-portfolio]]
+- Academic writing skills, presentation skills
+- Library skills
+- Academic skills (relationship with academic advisor)
+  + Get students to video call their academic advidor
+    - Make an appointment
+    - Plan video call content
+    - Contact Dr Idawati if academic supervisor refuses to meet the student
+  + On week 4
+  + Write reflection on the call
+- 4 weeks
+
+** CLO3 Ethical and professional volunteerism
+- This is a group activity
+- Poster presentation
+- 3 weeks
+
+** Assessments
+*** Continuous CLO1 & CLO2 (50%)
+- [[id:563ab6b3-1a3a-45e0-a98b-a2b3d6efcb58][e-portfolio]] using LinkedIn (20%)
+- reflections (20%)
+  + library skills
+  + meeting with academic advisor
+- academic writing (10%)
+*** Final CLO3 (50%)
+- volunteerism poster project (30%)
+- oral presentation (10%)
+- peer evaluation (10%)
+
+* Other
+- Block week 5 & 7 to allow third party to to their engagement with students
+- Use QR code for attendance
+  + Need to check attendance against list of students in MyMark
+  + Attendance online reporting
+- Submit claim online
+
+* Claim
+- Tuntutan dibuat secara bulanan
+- Lampiran
+  + surat tawaran
+  + borang tuntutan bulanan
+  + jadual waktu asal & fotokopi
+  + borang terima lantikan
+  + kehadiran pelajar (QR code)
+    - boleh juga manual attendance sekiranya berkeperluan
+  + digital signature is acceptable
+- Perlu catatan pada lampiran kehadiran pelajar untuk kes-kes seperti:
+  + masuk lewat
+  + keluar awal
+- Borang bayaran saguhati
+  + secara bulanan juga
+  + nyatakan tarikh kuliah
+    - sekiranya kuliah ditukar waktu, isi borang pertukaran waktu kuliah
+  + tandatangan digital
+  + pengesahan penyelaras
+- Makluman perubahan waktu kuliah
+  + maklumkan sebab
+  + waktu dan tarikh yang baru
+  + tandatangan digital
+  + disahkan oleh penyelaras

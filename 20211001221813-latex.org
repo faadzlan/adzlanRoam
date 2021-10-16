@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       897fb60a-6b4c-4606-8269-1f00c012bb15
+:END:
+#+title: LaTeX
+One aspect of the LaTeX experience which is furthest removed from the familiar WYSIWYG word processor is building [[id:8180f7ce-284c-47b8-8132-d34d7fa806e0][tables]]. In a WYSIWYG word processor such as Microsoft Word of Libre Office Writer, tables are for the most part constructed by "feel", and its total width, cell height, cell width, text alignment are adjusted manually for each table drawn. In LaTeX, formatting a table is done through a series of commands that are less familiar to the occasional user, compared to the markup commands for formatting text, which are mostly self explanatory.

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       563ab6b3-1a3a-45e0-a98b-a2b3d6efcb58
+:END:
+#+title: e-portfolio
+
+How to develop an e-portfolio for students using LinkedIn?
+
+* Personal Details
+- Name
+  + Full name
+  + Use name in email account for professional sounding email
+- Profile picture
+  + Profiles with pictures is viewed 14 times more than profiles without
+  + Snappr to analyse profile photo https://www.snappr.com/photo-analyzer/
+- Background info
+  + 12 ~ 15 words
+  + E.g., "UCLA '21 graduate. Interested in scales position in B2B e-commerce.'"
+  + If too long, less chance of people reading
+  + Content:
+    - Intro
+    - Background/education
+    - Call to action
+  + Avoid cliches
+    - code ninja
+    - best student
+  + Share student portfolio, e.g., projects, reports etc.
+  + Showcase your education
+    - include schools (from secondary)
+    - major and minors
+    - courses
+    - study abroad/summer program
+    - show off GPA, test scores, etc.
+  + Update status regularly
+  + Show connectedness by joining groups
+  + Teachers can recommend students through one click of a button
+  + Create LinkedIn url
+  + Share your work
+- Industry/field

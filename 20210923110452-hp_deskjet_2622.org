@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3d156ffc-3daf-42f1-8742-2112ff320ca2
+:END:
+#+title: HP Deskjet 2622
+
+* Print in B5 size
+We need to select picture in file manager, then press the "right mouse click" key on the
+keyboard and select print to bring up the printing dialog. Printing from the built-in image
+viewer is impossible to optimise one A4 page into two equal parts.
